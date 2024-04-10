@@ -3,5 +3,5 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return <div></div>;
+  return <div>React Hook Form 2</div>;
 }
